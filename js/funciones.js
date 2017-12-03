@@ -20,7 +20,7 @@ $(
     function () {
 
         var btn_movil = $('#nav-responsive'),
-        menu = $('#navegacion').find('ul');
+            menu = $('#navegacion').find('ul');
 
         btn_movil.on(
             'click', function (e) {
